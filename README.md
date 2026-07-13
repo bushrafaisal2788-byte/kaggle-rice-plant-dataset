@@ -1,1 +1,0 @@
-# kaggle-rice-plant-dataset
